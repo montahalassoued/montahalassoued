@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Montaha Lassoued</h1>
 <h3 align="center">a Software Engineering student passionate about AI, Machine Learning, software development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=montahalassoued&label=Profile%20views&color=0e75b6&style=flat" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=montahalassoued" alt="montahalassoued" /></a> </p>
 
 - 📫 How to reach me **montaha.lassoued@insat.ucar.tn**
