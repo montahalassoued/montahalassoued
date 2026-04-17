@@ -10,7 +10,6 @@ Aspiring AI Engineer and Software Engineering student passionate about Artificia
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=montahalassoued" />
   </a>
 </p>
 
